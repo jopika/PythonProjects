@@ -6,7 +6,7 @@ def main():
     # Code goes here
     randomNum = 0
     randomNum = randint(1,100)
-    print(randomNum)
+    # print(randomNum)
 
     numGuess = 0
     numGuessHigh = 0
